@@ -11,7 +11,7 @@
 <p align="center">
 $\color{#ee50ff}{☆}$ <a href="https://weaponofwar.atabook.org/">ata-book</a> $\color{#5b5195}{✮}$ <a href="https://weaponofwar.straw.page/">Strawpage</a>  $\color{#ee50ff}{☆}$ <a href="https://rentry.co/itsmewemmbu_">Rentry</a>  $\color{#5b5195}{✮}$
   <br>
-    <img  width="100" align="center" alt="IMG_6683 (1)" src="https://github.com/user-attachments/assets/e3762fb3-053e-4675-be6b-b9918b5fc7a3" />
+    <img  width="150" align="center" alt="IMG_6683 (1)" src="https://github.com/user-attachments/assets/e3762fb3-053e-4675-be6b-b9918b5fc7a3" />
   </p>
 
 
