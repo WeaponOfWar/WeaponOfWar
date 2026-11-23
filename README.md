@@ -2,10 +2,11 @@
 <img width="450" align="left" alt="IMG_6682 (1)" src="https://github.com/user-attachments/assets/6dea7517-dcbf-4a8a-b758-0dcb99d46d6d" />
 <br>
 <br>
-<p align="center">
+ <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=og069hsmlaofwky4s8p345kl6&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=9d66dd&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=og069hsmlaofwky4s8p345kl6&cover_image=false&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=9b65dc&bar_color_cover=false">
   </a>
+</p>
 </p>
 <br>
 <p align="center">
